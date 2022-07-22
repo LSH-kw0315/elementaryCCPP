@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-homework2",
+      "appliesTo": "homework2.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-second",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
